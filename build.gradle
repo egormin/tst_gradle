@@ -1,1 +1,6 @@
-println "OK"
+
+apply plugin: 'java'
+
+repositories {
+        mavenCentral()
+}
