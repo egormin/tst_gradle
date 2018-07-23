@@ -8,3 +8,5 @@ println "XXX"
 
 println branch
 
+println teamcity["build.branch"]
+
