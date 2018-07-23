@@ -6,3 +6,5 @@ repositories {
 
 println "XXX"
 
+println ${branch}
+
